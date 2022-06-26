@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">590338119303-imus02q8kanorspuo5echvmr326s9159.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://deneme-169c9-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">590338119303</string>
+    <string name="google_api_key" translatable="false">AIzaSyB9ppJGZgzGZ014mSNq4Ik43CefYlN1WzU</string>
+    <string name="google_app_id" translatable="false">1:590338119303:android:89033240a605838ebc0a22</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB9ppJGZgzGZ014mSNq4Ik43CefYlN1WzU</string>
+    <string name="google_storage_bucket" translatable="false">deneme-169c9.appspot.com</string>
+    <string name="project_id" translatable="false">deneme-169c9</string>
+</resources>
