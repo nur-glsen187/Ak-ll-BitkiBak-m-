@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="navigation_bg">#4F0E0E0E</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="statusbar_bg_genel">#31a05f</color>
+    <color name="statusbar_bg_hava_kalite">#669999</color>
+    <color name="statusbar_bg_hava_nem">#78ADC5</color>
+    <color name="statusbar_bg_hava_sicaklik">#336699</color>
+    <color name="statusbar_bg_isik">#ffffcc</color>
+    <color name="statusbar_bg_su_seviye">#00ffff</color>
+    <color name="statusbar_bg_toprak_nem">#996600</color>
+    <color name="statusbar_bg_toprak_sicaklik">#b4821e</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <style name="SplashTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="android:statusBarColor">#eaeaea</item>
+        <item name="android:navigationBarColor">#eaeaea</item>
+    </style>
+    <style name="Theme.BitirmeProjesi" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">#8BC34A</item>
+        
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:navigationBarColor">#8BC34A</item>
+    </style>
+</resources>
